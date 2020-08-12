@@ -1,4 +1,4 @@
 threejs-cookbook
 ================
-
-Examples for the Three.js Cookbook book I'm writing for Packt
+# view examples:
+## wolfiex.github.io/threejs-cookbook/
